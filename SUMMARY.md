@@ -20,6 +20,7 @@
 * [Introduction](login-brute-forcing/introduction.md)
 * [Password Attacks](login-brute-forcing/password-attacks.md)
 * [Default Passwords](login-brute-forcing/default-passwords.md)
+* [Username Brute Force](login-brute-forcing/username-brute-force.md)
 
 ## Vulnerability Assessment
 
