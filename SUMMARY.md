@@ -15,6 +15,12 @@
 * [🟢 Pentesting Stages](documents-and-reports/pentesting-stages.md)
 * [🟢 Pre-Engagement](documents-and-reports/pre-engagement.md)
 
+## LOGIN BRUTE FORCING
+
+* [Introduction](login-brute-forcing/introduction.md)
+* [Password Attacks](login-brute-forcing/password-attacks.md)
+* [Default Passwords](login-brute-forcing/default-passwords.md)
+
 ## Vulnerability Assessment
 
 * [Type of Analysis](vulnerability-assessment/type-of-analysis.md)
