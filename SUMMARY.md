@@ -21,6 +21,10 @@
 * [Password Attacks](login-brute-forcing/password-attacks.md)
 * [Default Passwords](login-brute-forcing/default-passwords.md)
 * [Username Brute Force](login-brute-forcing/username-brute-force.md)
+* [Brute Forcing Forms](login-brute-forcing/brute-forcing-forms.md)
+* [Personalized Wordlists](login-brute-forcing/personalized-wordlists.md)
+* [Service Authentication Brute Forcing](login-brute-forcing/service-authentication-brute-forcing.md)
+* [Skills Assessment](login-brute-forcing/skills-assessment.md)
 
 ## Vulnerability Assessment
 
