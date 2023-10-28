@@ -78,3 +78,7 @@
 * [ZAP Shortcuts](web-proxies/zap-shortcuts.md)
 * [Firefox Shortcuts](web-proxies/firefox-shortcuts.md)
 * [Encoding/Decoding](web-proxies/encoding-decoding.md)
+
+## Attacking Enterprise Networks
+
+* [Module Summary](attacking-enterprise-networks/module-summary.md)
