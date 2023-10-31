@@ -30,6 +30,10 @@
 
 * [Type of Analysis](vulnerability-assessment/type-of-analysis.md)
 
+## Linux Privilege Escalation
+
+* [Environment Enumeration](linux-privilege-escalation/environment-enumeration.md)
+
 ## Network Scanning
 
 * [🟢 Port Status](network-scanning/port-status.md)
@@ -86,3 +90,7 @@
 ## Attacking Enterprise Networks
 
 * [Module Summary](attacking-enterprise-networks/module-summary.md)
+
+## SQLMap Essentials
+
+* [Page 3](sqlmap-essentials/page-3.md)
