@@ -53,18 +53,18 @@
 * [🟢 IMAP](footprinting/imap.md)
 * [🟢 SNMP](footprinting/snmp.md)
 * [🟢 MySQL](footprinting/mysql.md)
-* [MSSQL](footprinting/mssql.md)
+* [🟢 MSSQL](footprinting/mssql.md)
 * [🟢 Oracle TNS](footprinting/oracle-tns.md)
-* [IPMI](footprinting/ipmi.md)
+* [🟢 IPMI](footprinting/ipmi.md)
 * [Remote Management Protocols](footprinting/remote-management-protocols/README.md)
   * [Linux](footprinting/remote-management-protocols/linux.md)
   * [Windows](footprinting/remote-management-protocols/windows.md)
+* [🟢 Footprinting Lab - Easy](footprinting/footprinting-lab-easy.md)
+* [Footprinting Lab - Medium](footprinting/footprinting-lab-medium.md)
 * [Page 2](footprinting/page-2.md)
 * [Crawling](footprinting/crawling.md)
 * [Information Gathering - Web - Skills Assessment](footprinting/information-gathering-web-skills-assessment.md)
 * [🟢 All Commands](footprinting/all-commands.md)
-* [🟢 Footprinting Lab - Easy](footprinting/footprinting-lab-easy.md)
-* [Footprinting Lab - Medium](footprinting/footprinting-lab-medium.md)
 
 ## Attacking Common Services
 
