@@ -125,7 +125,7 @@ Sometimes we may have to work through a web proxy. We can also make this web pro
 CONNECT 10.129.14.128:25 HTTP/1.0
 ```
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 

@@ -2,7 +2,7 @@
 
 This module covers all aspects of a penetration test from start to finish. We work through a simulated External Penetration Test resulting in internal network access and ultimate compromise of the Active Directory environment. This module seeks to tie together all topics taught in the Penetration Tester path and can be thought of as a capstone module for that path, but can also be done standalone.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 In this module, we will cover:
 
