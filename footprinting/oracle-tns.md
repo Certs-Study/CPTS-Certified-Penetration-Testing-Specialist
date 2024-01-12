@@ -1,4 +1,4 @@
-# Oracle TNS
+# 🟢 Oracle TNS
 
 ```
 sudo nmap -p1521 -sV 10.129.204.235 --open --script oracle-sid-brute
@@ -34,4 +34,15 @@ scott/tiger
 
 ```
 sqlplus scott/tiger@10.129.205.19/XE as sysdba
+```
+
+### Install SQLPlus
+
+```
+wget https://deb.parrot.sh/parrot/pool/non-free/o/oracle-instantclient-sqlplus/oracle-instantclient-sqlplus_19.6.0.0.0-0parrot2_amd64.deb
+
+sudo dpkg -i oracle-instantclient-sqlplus_19.6.0.0.0-0parrot2_amd64.deb
+
+sudo sh -c "echo /usr/lib/oracle/12.2/client64/lib > /etc/ld.so.conf.d/oracle-instantclient.conf";sudo ldconfig
+
 ```
