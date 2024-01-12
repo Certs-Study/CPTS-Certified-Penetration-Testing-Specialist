@@ -2,7 +2,7 @@
 description: o
 ---
 
-# MSSQL
+# 🟢 MSSQL
 
 <table data-full-width="false"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="https://docs.microsoft.com/en-us/sql/tools/mssql-cli?view=sql-server-ver15">mssql-cli</a></td><td><a href="https://docs.microsoft.com/en-us/sql/powershell/sql-server-powershell?view=sql-server-ver15">SQL Server PowerShell</a></td><td><a href="https://www.heidisql.com/">HeidiSQL</a></td><td><a href="https://www.macsqlclient.com/">SQLPro</a></td><td><a href="https://github.com/SecureAuthCorp/impacket/blob/master/examples/mssqlclient.py">Impacket's mssqlclient.py</a></td></tr></tbody></table>
 

@@ -92,6 +92,6 @@ Go to : C:\Users\alex\devshare 87N1ns@slls83
 sa:87N1ns@slls83
 ```
 
-```
-/usr/share/doc/python3-impacket/examples/wmiexec.py alex:'lol123!mD'@10.129.202.41 "hostname"
-```
+Use Remmina to Access the Server using the Administrator and password: 87N1ns@slls83
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>

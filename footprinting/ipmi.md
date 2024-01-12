@@ -1,4 +1,4 @@
-# IPMI
+# 🟢 IPMI
 
 ### &#x20;IPMI is typically used in three ways:
 
