@@ -56,3 +56,16 @@ openssl s_client -connect 10.129.172.83:imaps
 ```
 nmap -v -sV --version-intensity=5 --script imap-capabilities -p T:143 10.129.172.83
 ```
+
+```
+openssl s_client -connect 10.129.189.29:imaps
+1 LOGIN robin robin
+1 LIST "" *
+1 LIST "" "%"
+1 SELECT INBOX
+1 FETCH 1 all
+1 SELECT DEV.DEPARTMENT.INT
+1 FETCH 1 all
+A1 STATUS INBOX (MESSAGES UNSEEN RECENT)
+1 FETCH 1 body[text]
+```
