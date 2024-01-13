@@ -41,6 +41,10 @@
 
 * [Environment Enumeration](linux-privilege-escalation/environment-enumeration.md)
 
+## PASSWORD ATTACKS &#x20;
+
+* [Introduction](password-attacks/introduction.md)
+
 ## Network Scanning
 
 * [🟢 Port Status](network-scanning/port-status.md)
