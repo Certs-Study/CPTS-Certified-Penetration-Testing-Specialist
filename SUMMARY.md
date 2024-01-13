@@ -31,6 +31,10 @@
 * [Type of Analysis](vulnerability-assessment/type-of-analysis.md)
 * [Page](vulnerability-assessment/page.md)
 
+## 💕 SHELLS & PAYLOADS &#x20;
+
+* [Crafting Payloads with MSFvenom](shells-and-payloads/crafting-payloads-with-msfvenom.md)
+
 ## Linux Privilege Escalation
 
 * [Environment Enumeration](linux-privilege-escalation/environment-enumeration.md)
