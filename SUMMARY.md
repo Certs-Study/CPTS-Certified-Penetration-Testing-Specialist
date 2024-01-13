@@ -29,6 +29,7 @@
 ## Vulnerability Assessment
 
 * [Type of Analysis](vulnerability-assessment/type-of-analysis.md)
+* [Page](vulnerability-assessment/page.md)
 
 ## Linux Privilege Escalation
 
