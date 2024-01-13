@@ -61,14 +61,14 @@
   * [Windows](footprinting/remote-management-protocols/windows.md)
 * [🟢 Footprinting Lab - Easy](footprinting/footprinting-lab-easy.md)
 * [🟢 Footprinting Lab - Medium](footprinting/footprinting-lab-medium.md)
-* [Footprinting Lab - Hard](footprinting/footprinting-lab-hard.md)
-* [Crawling](footprinting/crawling.md)
-* [Information Gathering - Web - Skills Assessment](footprinting/information-gathering-web-skills-assessment.md)
+* [🟢 Footprinting Lab - Hard](footprinting/footprinting-lab-hard.md)
 * [🟢 All Commands](footprinting/all-commands.md)
 
 ## Attacking Common Services
 
 * [Page 5](attacking-common-services/page-5.md)
+* [Crawling](attacking-common-services/crawling.md)
+* [Information Gathering - Web - Skills Assessment](attacking-common-services/information-gathering-web-skills-assessment.md)
 
 ## Metasploit Framework
 

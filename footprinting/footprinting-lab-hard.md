@@ -1,4 +1,4 @@
-# Footprinting Lab - Hard
+# 🟢 Footprinting Lab - Hard
 
 
 
@@ -234,4 +234,9 @@ sudo chmod 600 rsa
 
 ```
 ssh tom@10.129.179.145 -i rsa
+```
+
+```
+mysql -u top -p
+select * from users;
 ```
