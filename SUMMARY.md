@@ -34,6 +34,8 @@
 ## 💕 SHELLS & PAYLOADS &#x20;
 
 * [Crafting Payloads with MSFvenom](shells-and-payloads/crafting-payloads-with-msfvenom.md)
+* [Windows Payload Types](shells-and-payloads/windows-payload-types.md)
+* [Infiltrating Unix/Linux](shells-and-payloads/infiltrating-unix-linux.md)
 
 ## Linux Privilege Escalation
 
