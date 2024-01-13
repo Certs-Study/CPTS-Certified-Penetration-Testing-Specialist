@@ -1,4 +1,4 @@
-# Footprinting Lab - Medium
+# 🟢 Footprinting Lab - Medium
 
 ```
 nmap 10.129.202.41
