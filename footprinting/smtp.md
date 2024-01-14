@@ -132,3 +132,5 @@ CONNECT 10.129.14.128:25 HTTP/1.0
 
 
 {% file src="../.gitbook/assets/footprinting-wordlist.txt" %}
+
+{% embed url="https://www.poplabsec.com/smtp-penetration-testing/" %}

@@ -71,3 +71,5 @@ trinity          (10.129.202.5 admin)
 Use the "--show" option to display all of the cracked passwords reliably
 Session completed
 ```
+
+{% embed url="https://www.poplabsec.com/ipmi-penetration-testing/" %}
