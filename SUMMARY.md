@@ -44,6 +44,7 @@
 ## PASSWORD ATTACKS &#x20;
 
 * [Introduction](password-attacks/introduction.md)
+* [John The Ripper](password-attacks/john-the-ripper.md)
 
 ## Network Scanning
 
