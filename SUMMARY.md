@@ -45,7 +45,7 @@
 
 * [Introduction](password-attacks/introduction.md)
 * [John The Ripper](password-attacks/john-the-ripper.md)
-* [Page 2](password-attacks/page-2.md)
+* [Network Services](password-attacks/network-services.md)
 
 ## Network Scanning
 

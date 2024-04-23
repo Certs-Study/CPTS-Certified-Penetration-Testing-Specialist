@@ -13,7 +13,7 @@ Case 5 - HTB{700_much_r15k_bu7_w0r7h_17}
 
 Case 6 - HTB{v1nc3_mcm4h0n_15_4570n15h3d}
 
-Case 7 -
+Case 7 - HTB{un173_7h3_un173d}
 
 
 GET parameter 'col' appears to be 'MySQL > 5.0.12 AND time-based blind (heavy query)' injectable 
