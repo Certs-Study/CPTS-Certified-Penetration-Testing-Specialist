@@ -15,6 +15,12 @@
 * [🟢 Pentesting Stages](documents-and-reports/pentesting-stages.md)
 * [🟢 Pre-Engagement](documents-and-reports/pre-engagement.md)
 
+## Linux Privilege Escalation
+
+* [Enumeration](linux-privilege-escalation/enumeration.md)
+* [Page 2](linux-privilege-escalation/page-2.md)
+* [CVEs](linux-privilege-escalation/cves.md)
+
 ## LOGIN BRUTE FORCING
 
 * [Introduction](login-brute-forcing/introduction.md)
@@ -36,10 +42,6 @@
 * [Crafting Payloads with MSFvenom](shells-and-payloads/crafting-payloads-with-msfvenom.md)
 * [Windows Payload Types](shells-and-payloads/windows-payload-types.md)
 * [Infiltrating Unix/Linux](shells-and-payloads/infiltrating-unix-linux.md)
-
-## Linux Privilege Escalation
-
-* [Environment Enumeration](linux-privilege-escalation/environment-enumeration.md)
 
 ## PASSWORD ATTACKS &#x20;
 
